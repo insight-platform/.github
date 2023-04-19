@@ -1,4 +1,4 @@
-![in-sight_logo_2020_PNG_WHITE_BACKGROUND](https://user-images.githubusercontent.com/15047882/233046241-20355f3c-c5e2-43b7-9a83-991516821709.png)
+![in-sight_logo_2020_PNG_CONTOURED](https://user-images.githubusercontent.com/15047882/233049254-08197065-399b-4054-ac89-7abf49bfc725.png)
 
 ## Welcome to In-Sight Repositories
 
