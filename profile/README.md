@@ -4,3 +4,8 @@
 ## Welcome to In-Sight Repositories
 
 In-Sight is a hybrid edge/dc computer vision platform for scalable high-performance video analytics. In-Sight is built on Nvidia DeepStream. Our public repositories provide open-source frameworks used in the platform to everyone.
+
+## Open-Source Projects
+
+* [Savant](/Savant)
+* [Similari](/Similari)
