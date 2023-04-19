@@ -7,5 +7,7 @@ In-Sight is a hybrid edge/dc computer vision platform for scalable high-performa
 
 ## Open-Source Projects
 
-* [Savant](/Savant)
-* [Similari](/Similari)
+* [Savant](https://github.com/insight-platform/Savant) - Python streaming video analytics framework with batteries included;
+* [Similari](https://github.com/insight-platform/Similari) - Rust framework with Python bindings for building high-performance real-time multiple object trackers.
+
+
