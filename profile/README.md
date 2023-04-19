@@ -1,12 +1,6 @@
-## Hi there 👋
+![in-sight_logo_2020_PNG_WHITE_BACKGROUND](https://user-images.githubusercontent.com/15047882/232979381-4c85f59c-54b0-4b08-a4be-7a1a694608e0.png)
 
-<!--
 
-**Here are some ideas to get you started:**
+## Welcome to In-Sight Repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In-Sight is a hybrid edge/dc computer vision platform for scalable high-performance video analytics. In-Sight is built on Nvidia DeepStream. Our public repositories provide open-source frameworks used in the platform to everyone.
