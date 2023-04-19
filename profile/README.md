@@ -13,8 +13,6 @@ Contributing to open-source allows us to access the knowledge and expertise of o
 
 Furthermore, our commitment to open-source demonstrates our dedication to innovation, collaboration, and social responsibility. It allows us to build a strong reputation, attract like-minded customers and employees, and make a positive impact on society as a whole.
 
-We take pride in contributing to established open-source products and releasing our own open-source products. This not only fosters collaboration but also promotes progress and innovation within the software industry. Ultimately, our goal is to deliver unique value to our customers while also making a meaningful contribution to the open-source community.
-
 * [Savant](https://github.com/insight-platform/Savant) - Python streaming video analytics framework with batteries included;
 * [Similari](https://github.com/insight-platform/Similari) - Rust framework with Python bindings for building high-performance real-time multiple object trackers.
 
