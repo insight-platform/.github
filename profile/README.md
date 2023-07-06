@@ -17,7 +17,7 @@ Furthermore, our commitment to open-source demonstrates our dedication to innova
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=insight-platform/Savant,insight-platform/Similari&type=Date)](https://star-history.com/#insight-platform/Savant&insight-platform/Similari&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=insight-platform/Savant,insight-platform/Similari&type=Date)
 
 ## In-Sight Team
 
