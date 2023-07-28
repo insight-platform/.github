@@ -19,7 +19,7 @@ Furthermore, our commitment to open-source demonstrates our dedication to innova
 
 The In-Sight team is an ML/AI department of Bitworks Software. We develop custom high-performance CV applications for various industries providing full-cycle processes, including but not limited to data labeling, model evaluation, training, pruning, quantization, validation, verification, pipeline development, and CI/CD. We mostly focus on Nvidia hardware (both data center and edge).
 
-We are part of the Nvidia Inception Program:
+We are the part of the Nvidia Inception Program:
 
 ![savant_inception_member](https://github.com/insight-platform/.github/assets/15047882/34fb49cf-d8d7-4a1d-a3ab-2c9981632cfd)
 
