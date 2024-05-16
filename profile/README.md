@@ -15,9 +15,15 @@ Furthermore, our commitment to open-source demonstrates our dedication to innova
 * [Savant](https://github.com/insight-platform/Savant): Python computer vision & video analytics framework with batteries included, optimized for Nvidia hardware;
 * [Similari](https://github.com/insight-platform/Similari): Rust framework with Python bindings for building high-performance real-time multiple object trackers.
 
+## Developer-friendly Licensed Projects
+
+We also provide projects under the developer-friendly BSL-1.1 license. These projects are:
+
+* [Replay](https://github.com/insight-platform/Replay): Fast video archive and on-demand re-streaming database for edge and datacenter.
+
 ## In-Sight Team
 
-The In-Sight team is an ML/AI department of Bitworks Software. We develop custom high-performance CV applications for various industries providing full-cycle processes, including but not limited to data labeling, model evaluation, training, pruning, quantization, validation, verification, pipeline development, and CI/CD. We mostly focus on Nvidia hardware (both data center and edge).
+The In-Sight team is an ML/AI department of Bitworks Software. We develop custom high-performance CV applications for various industries, providing full-cycle processes, including but not limited to data labeling, model evaluation, training, pruning, quantization, validation, verification, pipeline development, and CI/CD. We mostly focus on Nvidia hardware (both data center and edge).
 
 We are part of the Nvidia Inception Program:
 
