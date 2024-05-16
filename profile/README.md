@@ -13,7 +13,8 @@ Contributing to open source allows us to access the knowledge and expertise of o
 Furthermore, our commitment to open-source demonstrates our dedication to innovation, collaboration, and social responsibility. It allows us to build a strong reputation, attract like-minded customers and employees, and positively impact society as a whole.
 
 * [Savant](https://github.com/insight-platform/Savant): Python computer vision & video analytics framework with batteries included, optimized for Nvidia hardware;
-* [Similari](https://github.com/insight-platform/Similari): Rust framework with Python bindings for building high-performance real-time multiple object trackers.
+* [Similari](https://github.com/insight-platform/Similari): Rust framework with Python bindings for building high-performance real-time multiple object trackers;
+* [RocksQ](https://github.com/insight-platform/RocksQ): Persistent Python in-proc queue built on RocksDB and Rust;
 
 ## Developer-friendly Licensed Projects
 
