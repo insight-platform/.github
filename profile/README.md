@@ -21,7 +21,6 @@ Furthermore, our commitment to open-source demonstrates our dedication to innova
 
 We also provide projects under the developer-friendly BSL-1.1 license. These projects are:
 
-* [Replay](https://github.com/insight-platform/Replay): Fast video archive and on-demand re-streaming database for edge and datacenter.
 * [MediaGateway](https://github.com/insight-platform/MediaGateway): Secure bridge and AAA solution for building hybrid edge/data center computer vision pipelines.
 
 ## About Us
